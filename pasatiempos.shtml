@@ -1,0 +1,87 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <!--#include virtual=/etc/head_includes.shtml -->
+  </head>
+  <body>
+    <!--#include virtual=/etc/header.shtml -->
+    <!--Title-->
+    <div class="row">
+      <div class="text-center large-8 large-offset-2 colums">
+        <h1 class="content-title">
+          Pasatiempos
+        </h1>
+      </div>
+    </div>
+    <!--Content-->
+    <div class="row text-center objectives-item">
+      <div class="large-4 large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+          <img src="/images/travel.jpg" alt="" />
+      </div>
+      <div class="large-4 columns end"  >
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+            <h2>Videojuegos</h2>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Me apasiona conocer nuevos lugares y sus gentes. Tantos lugares tan diferentes.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row text-center objectives-item">
+      <div class="large-4 large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+          <img src="/images/magic.jpg" alt="" />
+      </div>
+      <div class="large-4 columns end" data-aos="fade-up" data-aos-duration="1500">
+        <div class="row">
+            <h2>Magic The Gathering</h2>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Uno de mis metas en la vida es lograr aprender a hablar japones fluidamente, es un lenguaje muy rico y lleva implicito una milenaria cultura.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row text-center objectives-item">
+      <div class="large-4 large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+          <img src="/images/dune.jpg" alt="" />
+      </div>
+      <div class="large-4 columns end" data-aos="fade-up" data-aos-duration="1500">
+        <div class="row">
+            <h2>Ciencia Ficcion</h2>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Por mucho mi genero favorito es la ciencia ficción. Me encantan las peliculas y los libros que nos llevan a los fronteras de la ciencia y conocimiento humano, con todos los problemas que ello implica.
+            Pero particularmente entre todas las historias de ciencia ficción, mi favorita es Dune, que relata el futuro de la humanidad en el 10.000 DC donde las maquinas fueron restringidas ya que llevaron a la humanidad al borde de la extinción.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row text-center objectives-item">
+      <div class="large-4 large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500" >
+          <img src="/images/artes_marciales.jpg" alt="" />
+      </div>
+      <div class="large-4 columns end" data-aos="fade-up" data-aos-duration="1500">
+        <div class="row">
+            <h2>Artes Marciales</h2>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Durante mi vida he practido distintos estilos de artes marciles. Particularmente la que más he practicado es taekwondo, en la cual tengo un cinturon negro. Pero además he tenido la oportunidad de practicar Capoeira y Karate. A futuro me gustaría poder tener más tiempo para entrenar y practicar tipos diferentes de artes marciales.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.3/plugins/foundation.responsiveToggle.js"></script>
+    <script src="js/vendor/what-input.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

@@ -1,12 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Foundation for Sites</title>
-    <link rel="stylesheet" href="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
-    <link rel="stylesheet" href="css/app.css">
+    <!--#include virtual=/etc/head_includes.shtml -->
   </head>
   <body>
     <!--#include virtual=/etc/header.shtml -->
@@ -27,11 +22,13 @@
       </div>
     </div>
 
-    <div class="row text-center">
-      <div class="large-3 columns">
+
+      <div class="row text-center">
+
+    <div class="large-4 columns">
         <div class="callout">
           <div class="row">
-
+                <i class="fa fa-list fa-4x" aria-hidden="true"></i>
           </div>
           <div class="row">
               <h3>
@@ -45,23 +42,102 @@
           </div>
         </div>
       </div>
-      <div class="large-3 columns large-offset-1">
-        <div class="callout">
-  	      <p>
+
+        <div class="large-4 columns">
+          <div class="callout">
+            <div class="row">
+                  <i class="fa fa-list fa-4x" aria-hidden="true"></i>
+            </div>
+            <div class="row">
+                <h3>
+                  Obejtivos
+                </h1>
+            </div>
+            <div class="row">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="large-4 columns">
+          <div class="callout">
+            <div class="row">
+                  <i class="fa fa-list fa-4x" aria-hidden="true"></i>
+            </div>
+            <div class="row">
+                <h3>
+                  Obejtivos
+                </h1>
+            </div>
+            <div class="row">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              </p>
+            </div>
+          </div>
+        </div>
+
+  </div>
+
+  <div class="row text-center">
+
+<div class="large-4 columns">
+    <div class="callout">
+      <div class="row">
+            <i class="fa fa-list fa-4x" aria-hidden="true"></i>
+      </div>
+      <div class="row">
+          <h3>
+            Obejtivos
+          </h1>
+      </div>
+      <div class="row">
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+      </div>
+    </div>
+  </div>
+
+    <div class="large-4 columns">
+      <div class="callout">
+        <div class="row">
+              <i class="fa fa-list fa-4x" aria-hidden="true"></i>
+        </div>
+        <div class="row">
+            <h3>
+              Obejtivos
+            </h1>
+        </div>
+        <div class="row">
+          <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
         </div>
       </div>
-      <div class="large-3 large-offset-1 columns end ">
-        <div class="callout">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        </div>
-       </div>
     </div>
-    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.3/plugins/foundation.responsiveToggle.js"></script>
-    <script src="js/vendor/what-input.js"></script>
-    <script src="js/app.js"></script>
+
+    <div class="large-4 columns">
+      <div class="callout">
+        <div class="row">
+              <i class="fa fa-list fa-4x" aria-hidden="true"></i>
+        </div>
+        <div class="row">
+            <h3>
+              Obejtivos
+            </h1>
+        </div>
+        <div class="row">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          </p>
+        </div>
+      </div>
+    </div>
+
+</div>
+    <!--#include virtual=/etc/body_includes.shtml -->
   </body>
 </html>

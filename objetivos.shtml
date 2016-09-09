@@ -1,0 +1,64 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <!--#include virtual=/etc/head_includes.shtml -->
+  </head>
+  <body>
+    <!--#include virtual=/etc/header.shtml -->
+    <!--Title-->
+    <div class="row">
+      <div class="text-center large-8 large-offset-2 medium-3 colums">
+        <h1 class="content-title">
+          Objetivos
+        </h1>
+      </div>
+    </div>
+    <!--Content-->
+    <div class="row text-center objectives-item">
+      <div class="large-4 large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+          <img src="/images/travel.jpg" alt="" />
+      </div>
+      <div class="large-4 columns end" data-aos="fade-up" data-aos-duration="1500">
+        <div class="row">
+            <h2>Viajar</h2>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Me apasiona conocer nuevos lugares y sus gentes. Tantos lugares tan diferentes.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row text-center objectives-item">
+      <div class="large-4 large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+          <img src="/images/nihon.jpg" alt="" />
+      </div>
+      <div class="large-4 columns end" data-aos="fade-up" data-aos-duration="1500">
+        <div class="row">
+            <h2>Aprender Japones</h2>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Uno de mis metas en la vida es lograr aprender a hablar japones fluidamente, es un lenguaje muy rico y lleva implicito una milenaria cultura.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row text-center objectives-item">
+      <div class="large-4 large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+          <img src="/images/web_design.jpg" alt="" />
+      </div>
+      <div class="large-4 columns end" data-aos="fade-up" data-aos-duration="1500">
+        <div class="row">
+            <h2>Desarrollar Web</h2>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Me agrada mucho el trabajo orientado a la creacion y desarrollo de aplicaciones web y los retos que ello implica
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--#include virtual=/etc/body_includes.shtml -->
+  </body>
+</html>

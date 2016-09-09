@@ -6,24 +6,24 @@
 <div class="top-bar stacked-for-medium" id="example-menu">
   <div class="top-bar-left">
     <ul class="dropdown vertical medium-horizontal menu" data-dropdown-menu>
-      <li class="menu-text">Fernando Mata</li>
-      <li><a href="#">Objetivos</a></li>
-      <li><a href="#">Pasatiempos</a></li>
+      <li class="menu-text"> <a href="\index.shtml">Fernando Mata</a></li>
+      <li><a href="\objetivos.shtml">Objetivos</a></li>
+      <li><a href="\pasatiempos.shtml">Pasatiempos</a></li>
       <li>
         <a href="#">Computacion</a>
         <ul class="menu vertical">
-          <li><a href="#">Por qué?</a></li>
-          <li><a href="#">Cursos Preferidos</a></li>
-          <li><a href="#">Mis profesores y compañeros</a></li>
-          <li><a href="#">Descargas</a></li>
+          <li><a href="\porque.shtml">Por qué?</a></li>
+          <li><a href="\cursos.shtml">Cursos Preferidos</a></li>
+          <li><a href="\profesores_alumnos.shtml">Mis profesores y compañeros</a></li>
+          <li><a href="\descargas.shtml">Descargas</a></li>
         </ul>
       </li>
     </ul>
   </div>
   <div class="top-bar-right">
     <ul class="menu">
-      <li><a href="#">Acerca del Sitio</a></li>
-      <li><a href="#">Contacto</a></li>
+      <li><a href="\about.shtml">Acerca del Sitio</a></li>
+      <li><a href="\contacto.shtml">Contacto</a></li>
     </ul>
   </div>
   </div>
