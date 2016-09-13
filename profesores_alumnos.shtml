@@ -1,0 +1,188 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <!--#include virtual=/etc/head_includes.shtml -->
+  </head>
+  <body>
+    <!--#include virtual=/etc/header.shtml -->
+    <!--Title-->
+    <div class="row">
+      <div class="text-center large-8 large-offset-2 medium-3 colums">
+        <h1 class="content-title">
+          Profesores y Compañeros
+        </h1>
+      </div>
+    </div>
+    <!--Content-->
+
+    <div class="row profile">
+      <div class="large-2 text-center large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+        <img src="/images/mr-robot.jpg"/>
+        <div class="strong-margin">
+
+          <strong >Compañero</strong>
+        </div>
+      </div>
+      <div class="large-6 columns end profile-text">
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <h4>
+            Blopa Sauma a.k.a Blopa-Sama o el Corazón del equipo XD
+          </h4>
+
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Blopa es de los compañeros más viejos que he tenido en compu y de los mejores. Siempre he estado tremendamente impresionado por su capacidad de resolución de problemas y la pasición con la cual programa. Ahora si, BLAPO SI TU TA LEYENDO ESTO, YA TU SABE, TRA TRA TRA!!
+          </p>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="row profile">
+      <div class="large-2 text-center large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+        <img src="/images/rainbow.jpg"/>
+        <div class="strong-margin">
+
+          <strong >Compañero</strong>
+        </div>
+      </div>
+      <div class="large-6 columns end profile-text">
+        <div class="row"  data-aos="fade-up" data-aos-duration="1500">
+          <h4>
+            Juan Carlos Porras a.k.a JK DARKLORD OF THE HOUSE CHEERS
+          </h4>
+
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+          JK ha sido de las personas más sociables y buena gente que he tenido la opurtunidad de conocer. Con el mismo ingenio a la hora de hacer bromas y la pasion por hora de aventura. Ademas da buenos consejos y puntos de vista.
+          </p>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="row profile">
+      <div class="large-2 text-center large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+        <img src="/images/dio.jpg"/>
+        <div class="strong-margin">
+
+          <strong >Compañero</strong>
+        </div>
+      </div>
+      <div class="large-6 columns end profile-text">
+        <div class="row"  data-aos="fade-up" data-aos-duration="1500">
+          <h3>
+            Leonardo Villalobos a.k.a The Cancer Mancer
+          </h3>
+
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Leo fue la primera persona que conocí cuando entré a compu. Además ha sido de mis más viejos y mejores amigos. Compañeros en innumerables proyecto no lo pensaría dos veces a la hora de hacer un trabajo con el.
+          </p>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="row profile">
+      <div class="large-2 text-center large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+        <img src="/images/mich.jpg"/>
+        <div class="strong-margin">
+
+          <strong >Compañera</strong>
+        </div>
+      </div>
+      <div class="large-6 columns end profile-text">
+        <div class="row"  data-aos="fade-up" data-aos-duration="1500">
+          <h3>
+            Michelle Cersosimo a.k.a Mich
+          </h3>
+
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Compañera veterana de las clases de Japo de allá por el 2014 cuando empezamos a estudiar, es de las personas más alegres que he conocido y una excelente persona con un animo contagioso.
+          </p>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="row profile">
+      <div class="large-2 text-center large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+        <img src="/images/luis.jpg"/>
+        <div class="strong-margin">
+
+          <strong >Profesor</strong>
+        </div>
+      </div>
+      <div class="large-6 columns end profile-text">
+        <div class="row"  data-aos="fade-up" data-aos-duration="1500">
+          <h3>
+          Luis Quesada a.k.a Luis
+          </h3>
+
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Si bien he solo he sido estudiante de uno de sus(Automas y Compiladores, recomendadisimo con él) Nos conocimos antes de que entrara a clases en el 2011 y desde entonces lo cuento dentro de mis mejores amigos. Compañero de juegos de mesa y estrenos de games of thrones siempre está ahí para pasar un buen momento, aunque a veces tenga que enseñarme de cultura XD. Gracias por todo Luis ;)
+            </p>
+        </div>
+
+      </div>
+    </div>
+    <div class="row profile">
+      <div class="large-2 text-center large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+        <img src="/images/iliana.jpg"/>
+        <div class="strong-margin">
+
+          <strong >Profesora</strong>
+        </div>
+      </div>
+      <div class="large-6 columns end profile-text">
+        <div class="row"  data-aos="fade-up" data-aos-duration="1500">
+          <h3>
+          Iliana Alpizar
+          </h3>
+
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Es de las personas más gentiles que he conocido en la vida y de las mejores profesoras tambien. Siempre le ayuda a los estudiantes de la manera que pueda ya sea en las clases o solo por hablar. Gracias por todo profe.
+          </p>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="row profile">
+      <div class="large-2 text-center large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+        <img src="/images/processor.jpg"/>
+        <div class="strong-margin">
+
+          <strong >Profesor</strong>
+        </div>
+      </div>
+      <div class="large-6 columns end profile-text">
+        <div class="row"  data-aos="fade-up" data-aos-duration="1500">
+          <h3>
+          Ricardo Villalon
+          </h3>
+
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+          Un profe demasiado conocedor que nos enseño todo lo que debiamos conocer acerca del ensambladores y como todo lo que hacemos en alto nivel se traduce en esas pequeñas instrucciones que solo mueven bytes de un lado a otro.
+          </p>
+        </div>
+
+      </div>
+    </div>
+
+    <!--#include virtual=/etc/footer.shtml -->
+    <!--#include virtual=/etc/body_includes.shtml -->
+  </body>
+</html>

@@ -1,0 +1,62 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <!--#include virtual=/etc/head_includes.shtml -->
+  </head>
+  <body>
+    <!--#include virtual=/etc/header.shtml -->
+    <!--Title-->
+    <div class="row">
+      <div class="text-center large-8 large-offset-2 medium-3 colums">
+        <h1 class="content-title">
+          Contacto
+        </h1>
+      </div>
+    </div>
+    <!--Content-->
+
+    <div class="row profile">
+      <div class="large-8 large-offset-2 columns end profile-text">
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+          Si desea contactarme para cualquier trabajo web o en python puede hacer a traves de mi correo o numero telefónico.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row profile">
+      <div class="large-8 large-offset-2 columns end text-center">
+        <div class="row"  data-aos="fade-up" data-aos-duration="1500">
+          <h3>
+            Numero de telefono: (+506) 8310 2636
+          </h3>
+
+        </div>
+        <div class="row"  data-aos="fade-up" data-aos-duration="1500">
+          <h3>
+            Correo: fernando.mata@azaros.net
+          </h3>
+
+        </div>
+
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--#include virtual=/etc/footer.shtml -->
+    <!--#include virtual=/etc/body_includes.shtml -->
+  </body>
+</html>

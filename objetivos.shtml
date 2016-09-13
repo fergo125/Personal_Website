@@ -59,6 +59,7 @@
         </div>
       </div>
     </div>
+    <!--#include virtual=/etc/footer.shtml -->
     <!--#include virtual=/etc/body_includes.shtml -->
   </body>
 </html>

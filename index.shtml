@@ -6,7 +6,7 @@
   <body>
     <!--#include virtual=/etc/header.shtml -->
     <!--Title-->
-    <div class="full-width-row title-background">
+    <!--div class="full-width-row title-background">
       <div class="row">
         <div class="text-center ">
           <h1 id="title-landing">
@@ -20,71 +20,85 @@
           En este sitio podrá consultar diferentes aspectos de mi vida cotiana.
         </div>
       </div>
+    </div-->
+
+    <div class="row">
+      <div class="text-center large-8 large-offset-2 colums">
+        <h3 class="content-title">
+          Sitio personal de Fernando Mata
+        </h3>
+        <h5 class="content-subtitle">
+          En este sitio podrá consultar diferentes aspectos de mi vida cotiana.
+        </h5>
+      </div>
     </div>
 
+    <div class="row text-center">
+<a href="/objetivos.shtml">
 
-      <div class="row text-center">
 
-    <div class="large-4 columns">
-        <div class="callout">
-          <div class="row">
-                <i class="fa fa-list fa-4x" aria-hidden="true"></i>
-          </div>
-          <div class="row">
-              <h3>
-                Obejtivos
-              </h1>
-          </div>
-          <div class="row">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
-          </div>
-        </div>
+    <div class="large-4 columns menu-item" href="\objetivos.shtml">
+
+      <div class="row">
+        <i class="fa fa-list fa-4x" aria-hidden="true"></i>
       </div>
+      <div class="row">
+        <h3>
+          Obejtivos
+        </h1>
+      </div>
+      <div class="row">
+        <p>
+          Metas a corto plazo nada más.
+        </p>
+      </div>
+    </a>
+    </div>
+    <div class="large-4 columns menu-item">
+<a href="/pasatiempos.shtml">
+    <div class="row">
+      <i class="fa fa-gamepad fa-4x" aria-hidden="true"></i>
+    </div>
+    <div class="row">
+      <h3>
+        Pasatiempos
+      </h1>
+    </div>
+    <div class="row">
+      <p>
+        Todo eso que es divertido y le da valor a la existencia.
+      </p>
+    </div>
+  </a>
+  </div>
 
-        <div class="large-4 columns">
-          <div class="callout">
+
+        <div class="large-4 columns menu-item">
+
             <div class="row">
-                  <i class="fa fa-list fa-4x" aria-hidden="true"></i>
+                  <i class="fa fa-desktop fa-4x" aria-hidden="true"></i>
             </div>
             <div class="row">
                 <h3>
-                  Obejtivos
+                  Computación
                 </h1>
             </div>
             <div class="row">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-              </p>
+              <ul class="no-bullet">
+                <li><a href="\porque.shtml">Por qué?</a></li>
+                <li><a href="\cursos.shtml">Cursos Preferidos</a></li>
+                <li><a href="\profesores_alumnos.shtml">Mis profesores y compañeros</a></li>
+                <li><a href="\descargas.shtml">Descargas</a></li>
+              </ul>
             </div>
-          </div>
-        </div>
-
-        <div class="large-4 columns">
-          <div class="callout">
-            <div class="row">
-                  <i class="fa fa-list fa-4x" aria-hidden="true"></i>
-            </div>
-            <div class="row">
-                <h3>
-                  Obejtivos
-                </h1>
-            </div>
-            <div class="row">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-              </p>
-            </div>
-          </div>
         </div>
 
   </div>
 
-  <div class="row text-center">
+  <!--div class="row text-center">
 
-<div class="large-4 columns">
-    <div class="callout">
+<div class="large-4 columns menu-item">
+
       <div class="row">
             <i class="fa fa-list fa-4x" aria-hidden="true"></i>
       </div>
@@ -98,11 +112,11 @@
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
       </div>
-    </div>
+
   </div>
 
-    <div class="large-4 columns">
-      <div class="callout">
+    <div class="large-4 columns menu-item">
+
         <div class="row">
               <i class="fa fa-list fa-4x" aria-hidden="true"></i>
         </div>
@@ -116,11 +130,9 @@
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
         </div>
-      </div>
     </div>
 
-    <div class="large-4 columns">
-      <div class="callout">
+    <div class="large-4 columns menu-item">
         <div class="row">
               <i class="fa fa-list fa-4x" aria-hidden="true"></i>
         </div>
@@ -134,10 +146,10 @@
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
         </div>
-      </div>
     </div>
 
-</div>
+</div-->
+    <!--#include virtual=/etc/footer.shtml -->
     <!--#include virtual=/etc/body_includes.shtml -->
   </body>
 </html>

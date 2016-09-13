@@ -16,7 +16,7 @@
     <!--Content-->
     <div class="row text-center objectives-item">
       <div class="large-4 large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
-          <img src="/images/travel.jpg" alt="" />
+          <img src="/images/video_games.jpg" alt="" />
       </div>
       <div class="large-4 columns end"  >
         <div class="row" data-aos="fade-up" data-aos-duration="1500">
@@ -24,9 +24,10 @@
         </div>
         <div class="row" data-aos="fade-up" data-aos-duration="1500">
           <p>
-            Me apasiona conocer nuevos lugares y sus gentes. Tantos lugares tan diferentes.
+  Desde que era niño siempre me gustaron los videojuegos. Yo siempre he dicho que un buen videojuego es como un libro, una historia con un protagonista en la cual podemos experimentar de primera mano que está viviendo. O no, a veces hay juegos que son como una partida de ajedrez, son siempre lo mismo pero la cantidad de estrategias por partida lo convierten en un reto.
           </p>
         </div>
+        
       </div>
     </div>
     <div class="row text-center objectives-item">
@@ -39,9 +40,11 @@
         </div>
         <div class="row" data-aos="fade-up" data-aos-duration="1500">
           <p>
-            Uno de mis metas en la vida es lograr aprender a hablar japones fluidamente, es un lenguaje muy rico y lleva implicito una milenaria cultura.
+            Magic es sin duda uno de mis pasatiempos favoritos y con los cuales siempre logro disfrutar en compañia de mis amigos. Magic the Gathering(MTG) es un juego de estrategia que consiste en derrotar los otros oponentes mediante del uso de hechizos(Cartas) haciendo que su vida llegue a cero o cumpliendo alguna de las condiciones de gane. Más información en
+            <a href="http://magic.wizards.com/es">MTG</a>.
           </p>
         </div>
+
       </div>
     </div>
 
@@ -78,10 +81,8 @@
       </div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.2.3/plugins/foundation.responsiveToggle.js"></script>
-    <script src="js/vendor/what-input.js"></script>
-    <script src="js/app.js"></script>
+
+      <!--#include virtual=/etc/footer.shtml -->
+      <!--#include virtual=/etc/body_includes.shtml -->
   </body>
 </html>

@@ -1,4 +1,20 @@
 $break: 500px;
+$header-color: white;
+$header-background-color: #05080f;
+$presentation-background-color: #e6eaed;
+$presentation-font-color:#c86208;
+$header-font-color: #c86208;
+
+
+
+// Prueba 1: Negros */
+
+$color-primary-0: #222222;	// Main Primary color */
+$color-primary-1: #6C6C6D;
+$color-primary-2: #49494A;
+$color-primary-3: #000000;
+$color-primary-4: #020202;
+
 
 @mixin fade-in($time) {
   -webkit-animation: fadein $time; /* Safari, Chrome and Opera > 12.1 */
@@ -47,14 +63,36 @@ $break: 500px;
   height: 0%;
 }
 
+
+
+#menu{
+  background-color: $header-background-color;
+  color:$header-color;
+  li{
+    background-color: $header-background-color;
+    border-color: $header-color;
+    a{
+      color:$header-color;
+    }
+  }
+}
+
+#footter{
+  color: $header-color;
+  background-color: $header-background-color;
+  width: 100%;
+  margin-top: 10%
+}
+
 .full-width-row {
    width: 100%;
    margin-left: auto;
    margin-right: auto;
    max-width: initial;
+   background-color: $presentation-background-color;
+   color: $presentation-font-color;
    @media screen and (min-width: $break)  {
      height: 60%;
-     margin-bottom: 1%;
   }
   @media screen and (max-width: $break) {
     height: 30%;
@@ -95,9 +133,50 @@ $break: 500px;
   margin-top: 4%;
 }
 
+.content-subtitle{
+  margin-top: 5%
+}
+
 .content-title:after{
   content:' ';
       display:block;
       margin-top: 4%;
       border:1px solid black;
+}
+
+.menu-item{
+  margin-top: 10%;
+  a{
+    color: black;
+  }
+}
+
+.text-item{
+  margin-top: 3%;
+  p{
+    margin-top: 2%;
+  }
+  img{
+    margin-top: 3%;
+  }
+}
+
+.profile{
+  margin-top: 4%;
+  img{
+    margin-top: 4%;
+    width: 50%;
+    height: 50%;
+    border-radius: 25px;
+  }
+  .strong-margin{
+    margin-top: 8%;
+  }
+  @media screen and (max-width: $break) {
+    text-align: center;
+  }
+  @media screen and (min-width: $break) {
+    text-align: left;
+  }
+
 }

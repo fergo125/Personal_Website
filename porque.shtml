@@ -1,0 +1,73 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <!--#include virtual=/etc/head_includes.shtml -->
+  </head>
+  <body>
+    <!--#include virtual=/etc/header.shtml -->
+    <!--Title-->
+    <div class="row">
+      <div class="text-center large-8 large-offset-2">
+        <h1 class="content-title">
+          ¿Por qué computación?
+        </h1>
+      </div>
+    </div>
+    <!--Content-->
+    <div class="text-item">
+      <div class="row">
+        <div class="large-8 large-offset-2  end columns text-left" data-aos="fade-up" data-aos-duration="1500">
+          <h3>
+            Crear cosas nuevas.
+          </h3>
+        </div>
+      </div>
+      <div class="row">
+          <div class="large-8 columns large-offset-2 text-justify end" data-aos="fade-up" data-aos-duration="1500">
+
+            <p>
+              Me encanta la facilidad en cuanto a recursos para lograr llevar a cabo una idea en el campo de la computacion. Basicamente solo se necesita una computadara, internet y ta da! Ya se cuenta con todo lo necesario para crear un nuevo producto de software.(Perdon por la descripcion tan milimalista, soy consciente que toma más cosas, pero captaron el punto verdad?)
+            </p>
+          </div>
+      </div>
+      <div class="row ">
+          <div class="large-8 columns large-offset-2 text-center end" data-aos="fade-up" data-aos-duration="1500">
+
+            <img src="/images/creatividad.jpg" />
+          </div>
+      </div>
+    </div>
+
+    <div class="text-item">
+      <div class="row">
+        <div class="large-8 large-offset-2  end columns text-left" data-aos="fade-up" data-aos-duration="1500">
+          <h3>
+            Una ciencia al servicio de otras ciencias.
+          </h3>
+        </div>
+      </div>
+      <div class="row">
+          <div class="large-8 columns large-offset-2 text-justify end" data-aos="fade-up" data-aos-duration="1500">
+
+            <p>
+              Siempre que le hablo a alguien de la carrera de ciencias de la computacion siempre me gusta resaltar el hecho de que la computacion por si misma no tiene mucho sentido. El verdadero sentido
+              de la computacion es ayudar a la resolución de problemas de otras areas del conocimientos. Lo cual la hace muy multidisciplinaria. Uno como informatico siempre va a estar rodeado con clientes
+              o problemas de otras areas, siempre con el objetivo de mejorar un problema o crear algo nuevo.
+            </p>
+          </div>
+      </div>
+      <div class="row ">
+          <div class="large-8 columns large-offset-2 text-center end" data-aos="fade-up" data-aos-duration="1500">
+
+            <img src="/images/servicio.jpg" />
+          </div>
+      </div>
+    </div>
+
+
+
+
+      <!--#include virtual=/etc/footer.shtml -->
+      <!--#include virtual=/etc/body_includes.shtml -->
+  </body>
+</html>

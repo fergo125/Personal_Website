@@ -1,0 +1,98 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <!--#include virtual=/etc/head_includes.shtml -->
+  </head>
+  <body>
+    <!--#include virtual=/etc/header.shtml -->
+    <!--Title-->
+    <div class="row">
+      <div class="text-center large-8 large-offset-2 medium-3 colums">
+        <h1 class="content-title">
+          Descargas
+        </h1>
+      </div>
+    </div>
+    <!--Content-->
+
+    <div class="row profile">
+      <div class="large-7 large-offset-3 columns end profile-text">
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <h4>
+          Atom
+                    </h4>
+
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Uno de los mejores IDE para programar, de hecho este sitio fue hecho con atom.
+          </p>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            URL: <a href="https://atom.io/">atom.io</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row profile">
+      <div class="large-7 large-offset-3 columns end profile-text">
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <h4>
+          MIOCIMAR</h4>
+
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Actualmente estoy trabajando para el Modulo de Informacion Oceanográfica en el CIMAR. Es un proyecto en colaboracion con la Universidad y la Comision Nacional de Emergéncias, si desean pueden consultar la pagina en la cual se despliegan pronosticos regionales dos veces por semana.
+          </p>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            URL: <a href="http://miocimar.ucr.ac.cr//">MIOCIMAR</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row profile">
+      <div class="large-7 large-offset-3 columns end profile-text">
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <h4>
+          Aplicacion movil del MIO</h4>
+
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Ademas el modulo cuenta con una aplicación movil tanto para iOS como Android, la cual será actualizada proximamente y pueden descargar en sus respectivas tiendas.
+            </p>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Android: <a href="https://play.google.com/store/apps/details?id=cr.co.ucr.miocimar">App</a>
+          </p>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            iOS: <a href="https://itunes.apple.com/cr/app/mio-cimar/id1008031032?l=en&mt=8">App</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--#include virtual=/etc/footer.shtml -->
+    <!--#include virtual=/etc/body_includes.shtml -->
+  </body>
+</html>

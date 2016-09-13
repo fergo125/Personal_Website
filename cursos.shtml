@@ -1,0 +1,80 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <!--#include virtual=/etc/head_includes.shtml -->
+  </head>
+  <body>
+    <!--#include virtual=/etc/header.shtml -->
+    <!--Title-->
+    <div class="row">
+      <div class="text-center large-8 large-offset-2 medium-3 colums">
+        <h1 class="content-title">
+          Cursos Favoritos
+        </h1>
+      </div>
+    </div>
+    <!--Content-->
+    <div class="row text-center objectives-item">
+      <div class="large-4 large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+          <img src="/images/programming.jpg" alt="" />
+      </div>
+      <div class="large-4 columns end" data-aos="fade-up" data-aos-duration="1500">
+        <div class="row">
+            <h2>Programción 1 y 2</h2>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Fue cuando me acerqué a la programación de manera más intensa por primera vez, si bien no era el mejor, realmente disfrutaba crear cosas nuevas.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row text-center objectives-item">
+      <div class="large-4 large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+          <img src="/images/japo.jpg" alt="" />
+      </div>
+      <div class="large-4 columns end" data-aos="fade-up" data-aos-duration="1500">
+        <div class="row">
+            <h2>Japones</h2>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Recuerdo que era una época en la que siempre me dormia en clases o faltaba, pero la clase de Japo siempre fue una excepción. Es de las mejores clases a las cuales he asistido en la u.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row text-center objectives-item">
+      <div class="large-4 large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+          <img src="/images/database.jpg" alt="" />
+      </div>
+      <div class="large-4 columns end" data-aos="fade-up" data-aos-duration="1500">
+        <div class="row">
+            <h2>Bases de datos</h2>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            Fue un curso que encantó debido a que me dio una idea de como era que realmente funcionaban los sistemas de verdad.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row text-center objectives-item">
+      <div class="large-4 large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+          <img src="/images/math.jpg" alt="" />
+      </div>
+      <div class="large-4 columns end" data-aos="fade-up" data-aos-duration="1500">
+        <div class="row">
+            <h2>Estructuras discretas</h2>
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+            En esta mate aprendí demasiadas cosas acerca como funcionan muchas en el mundo de la computación. Toda la mate detras y como está da sentido a lo que vemos en una pantalla.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--#include virtual=/etc/footer.shtml -->
+    <!--#include virtual=/etc/body_includes.shtml -->
+  </body>
+</html>

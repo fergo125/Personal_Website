@@ -1,0 +1,64 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <!--#include virtual=/etc/head_includes.shtml -->
+  </head>
+  <body>
+    <!--#include virtual=/etc/header.shtml -->
+    <!--Title-->
+    <div class="row">
+      <div class="text-center large-8 large-offset-2 medium-3 colums">
+        <h1 class="content-title">
+          Acerca de
+        </h1>
+      </div>
+    </div>
+    <!--Content-->
+
+    <div class="row profile">
+      <div class="large-7 large-offset-3 columns end profile-text">
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+          Esta pagina fue creada para el curso de aplicaciones web con el objetivo de poner a prueba nuestras habilidades en diseño web.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="row profile">
+      <div class="large-2 text-center large-offset-2 columns" data-aos="fade-up" data-aos-duration="1500">
+        <img src="/images/processor.jpg"/>
+      </div>
+      <div class="large-6 columns end profile-text">
+        <div class="row"  data-aos="fade-up" data-aos-duration="1500">
+          <h3>
+          Acerca de mi
+          </h3>
+
+        </div>
+        <div class="row" data-aos="fade-up" data-aos-duration="1500">
+          <p>
+          Soy desarrollador en el MIO, donde colaboro con proyectos de diferente índole, ya sean científicos, automatización o web. Me encanta el diseño web y trabajar en nuevos proyectos desde cero que involucren problemas complejos.
+          </p>
+        </div>
+
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--#include virtual=/etc/footer.shtml -->
+    <!--#include virtual=/etc/body_includes.shtml -->
+  </body>
+</html>
